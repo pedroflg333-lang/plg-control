@@ -8,9 +8,9 @@
     "fecha_proximo_cobro": "2026-11-23",
     "metodo_pago": "Bizum",
     "notas": "",
-    "estado": "activa",
+    "estado": "suspendida",
     "creado": "2026-11-23T10:56:35.979Z",
     "motivo_suspension": null,
-    "activo": true
+    "activo": false
   }
 ]
